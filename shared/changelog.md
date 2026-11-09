@@ -8,3 +8,4 @@
 - 2026-11-09 — Отримано посилання на Wordwall, Quizlet, Baamboozle. Wordwall і Baamboozle вимагають входу, Quizlet показує капчу, тож прочитати не вдалося. Дозволено quizlet.com у мережі середовища.
 - 2026-11-09 — Систему перенесено в GitHub: vikakalenichenko2000-gif/teaching-studio (private). Правило: після змін — commit + push.
 - 2026-11-09 — ReadyTo Master Expert: 30 довідників блоків (`ReadyTo/platform-guide/`), `mass-import.md`, база форматів зі статусами DOCUMENTED/TESTED/UNVERIFIED, валідатор `ReadyTo/tools/check_import.py`, тестовий файл на 16 типів, skills readyto-lesson/import/check/images/guide. Джерело: офіційна документація readyto.net/docs.
+- 2026-11-09 — ReadyTo: тестовий імпорт 16 типів пройшов «Перевірити» без помилок (етап 1). Очікую створення та перегляд.
