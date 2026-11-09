@@ -51,4 +51,5 @@
 
 ## Команди (skills у `.claude/skills/`)
 `/lesson /slides /readyto /games /brainbreak /vocabulary /grammar /worksheet /review /adapt /remember /wordwall /quizlet /baamboozle /interactive`
+ReadyTo: `/readyto /readyto-lesson /readyto-import /readyto-check /readyto-images /readyto-guide`. Довідник блоків: `ReadyTo/platform-guide/README.md`, валідатор імпорту: `ReadyTo/tools/check_import.py`.
 Якщо `/review` чи `/remember` перехоплюються вбудованими командами Claude Code — використовуй `/revision` та `/save-rule`.
