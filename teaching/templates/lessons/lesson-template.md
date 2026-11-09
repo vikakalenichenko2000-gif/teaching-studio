@@ -17,6 +17,8 @@
 | 6 | Wrap-up + homework | 3 | | Quizlet / ReadyTo |
 | | **Разом** | **≈ 60** | | |
 
+## Lingo Coins (до 5 за урок; офлайн — за правилами школи, онлайн — ❓ після затвердження)
+
 ## Mini-test (5–7 min) — ключ відповідей
 ## Answer keys
 ## Differentiation (younger / older, readers / non-readers)

@@ -26,6 +26,8 @@
 - `changelog.md` — журнал змін пам'яті.
 - `readyto-formats.md` — підтверджені / непідтверджені формати ReadyTo.
 - `games-library.md`, `brainbreaks-library.md` — бібліотеки ігор і руханок.
+- `brand-guide.md` + `brand/` — бренд Lingo English School (кольори, шрифти, логотип, маскот). Застосовувати до ВСІХ матеріалів.
+- `lingo-coins.md` — система мотивації Lingo Coins.
 - `wordwall-guide.md`, `quizlet-guide.md`, `baamboozle-guide.md`, `interactive-game-preferences.md`.
 
 ## Як працює пам'ять (чесно)

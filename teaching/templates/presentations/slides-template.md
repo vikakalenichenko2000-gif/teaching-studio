@@ -1,7 +1,7 @@
 # Структура презентації (Google Slides) — Lingo English School
 
 **Як отримати в Google Slides:** я створюю .pptx → завантажте файл у Google Drive → «Відкрити за допомогою Google Slides» (або в Slides: Файл → Імпортувати слайди).
-**Брендинг:** назва «Lingo English School» + логотип на титульному і в куті слайдів; шрифти й кольори школи — ❓ очікую скриншоти.
+**Брендинг:** див. `shared/brand-guide.md` — бузкове (#E1D4F8) і світло-оливкове (#C4CBA7) тло, текст темно-синій (#152547), акцент #7C5AA1; Playfair Display / Nunito / Caveat; логотип на титульному і в куті; слайди лексики — «картка слова» в клітинку.
 
 1. Title — тема, Lingo English School, логотип
 2. Warming up
