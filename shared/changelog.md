@@ -6,3 +6,4 @@
 - 2026-11-09 — Підтверджено: рівні Starter→B1/B2; мої учні 1–8 клас, у школі до 11 класу; онлайн-школа; зберігання — GitHub.
 - 2026-11-09 — Wordwall-довідник перевірено за офіційним сайтом (плани, 34 шаблони, Switch template, AI, зображення, друк; імпорту CSV немає). Baamboozle: перевірено ціни. Quizlet: help-центр недоступний (403). ReadyTo: отримано посилання; відомості з публічної сторінки входу; документації немає. Мережа середовища: дозволено readyto.net, wordwall.net, help.quizlet.com, www.baamboozle.com.
 - 2026-11-09 — Отримано посилання на Wordwall, Quizlet, Baamboozle. Wordwall і Baamboozle вимагають входу, Quizlet показує капчу, тож прочитати не вдалося. Дозволено quizlet.com у мережі середовища.
+- 2026-11-09 — Систему перенесено в GitHub: vikakalenichenko2000-gif/teaching-studio (private). Правило: після змін — commit + push.
