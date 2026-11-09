@@ -1,7 +1,7 @@
 # Масовий імпорт уроку ReadyTo («Імпорт зі списку (кілька вправ)»)
 
 > **Джерело:** https://readyto.net/docs/lesson-blocks/bulk-import. Дослівна копія: `source/bulk-import-page.md`
-> **Статус:** синтаксис — **DOCUMENTED** · тест на платформі — ще ні (тестовий файл: `../tests/2026-11-09_all-16-types-test.txt`)
+> **Статус:** синтаксис — **DOCUMENTED** · **TESTED 2026-11-09**: усі 16 маркерів (файл `../tested/2026-11-09_all-16-types-TESTED.txt`)
 > Оновлено: 2026-11-09
 
 ## 1. Де кнопка
