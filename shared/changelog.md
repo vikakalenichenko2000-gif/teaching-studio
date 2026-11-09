@@ -10,3 +10,4 @@
 - 2026-11-09 — ReadyTo Master Expert: 30 довідників блоків (`ReadyTo/platform-guide/`), `mass-import.md`, база форматів зі статусами DOCUMENTED/TESTED/UNVERIFIED, валідатор `ReadyTo/tools/check_import.py`, тестовий файл на 16 типів, skills readyto-lesson/import/check/images/guide. Джерело: офіційна документація readyto.net/docs.
 - 2026-11-09 — ReadyTo: тестовий імпорт 16 типів пройшов «Перевірити» без помилок (етап 1). Очікую створення та перегляд.
 - 2026-11-09 — ReadyTo: тест 16 типів — створення й перегляд ✅ («все нормально»). 16 маркерів масового імпорту → TESTED.
+- 2026-11-09 — Правило: підручник = джерело матеріалу, вправи власні з поясненнями. Додано `textbooks/` (PDF лише локально, .gitignore) і `shared/textbooks.md`.
