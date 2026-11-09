@@ -1,20 +1,23 @@
-# Lesson: {{Topic}}
-**Level:** {{CEFR}} · **Duration:** {{min}} min · **Group:** {{group}} · **Format:** online/offline
+# Lesson: {{Topic}} — Lingo English School
+**Level:** {{level}} · **Age:** {{age}} · **Duration:** 60 min · **Group/Individual:** … · **Format:** online/offline
+**Readers?** yes / no (визначає етап 4)
 **Aim (can-do):** By the end of the lesson students can …
-**Language focus:** vocabulary … / grammar …
-**Materials:** slides, worksheet, Wordwall/Quizlet/Baamboozle/ReadyTo links
+**Vocabulary:** new / revision: …
+**Grammar structures:** …
+**Materials:** Google Slides, worksheet, Wordwall / Quizlet / Baamboozle / ReadyTo links
 
-| # | Stage | Time | Procedure (teacher / students) | Interaction | Materials |
-|---|---|---|---|---|---|
-| 1 | Warm-up | 5 | | T–Ss | |
-| 2 | Lead-in | 5 | | Ss–Ss | |
-| 3 | Presentation | 10 | CCQs: … | T–Ss | slides |
-| 4 | Controlled practice | 10 | ICQs: … | S | worksheet / Wordwall |
-| 5 | Brain break | 2–3 | | all | |
-| 6 | Freer practice | 10 | | pairs | |
-| 7 | Wrap-up & feedback | 3 | | T–Ss | |
-| 8 | Homework | — | | S | Quizlet / ReadyTo |
+| # | Stage (обов'язковий) | Time | Procedure (teacher / students) | Materials |
+|---|---|---|---|---|
+| 1 | Warming up | 5 | | |
+| 2 | Vocabulary — new or revision, through GAMES (2–3 different games) | 15 | | Wordwall / Quizlet / cards |
+| — | Brain break (для молодших — бажано) | 3 | | |
+| 3 | Grammar structures — presentation + practice | 12 | CCQs: … | slides |
+| 4 | Reading texts for consolidation (readers) / oral & game alternative (non-readers) | 12 | | text / pictures |
+| 5 | Mini-test — everything from the lesson | 5–7 | | test / Baamboozle / Wordwall Quiz |
+| 6 | Wrap-up + homework | 3 | | Quizlet / ReadyTo |
+| | **Разом** | **≈ 60** | | |
 
+## Mini-test (5–7 min) — ключ відповідей
 ## Answer keys
-## Differentiation (stronger / weaker students)
+## Differentiation (younger / older, readers / non-readers)
 ## Possible problems & solutions

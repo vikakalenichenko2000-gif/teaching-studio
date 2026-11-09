@@ -3,15 +3,14 @@
 Спершу прочитай `../shared/preferences.md`, `../shared/rules.md`, `../shared/students.md`.
 
 ## Повноцінний урок (/lesson)
-Використовуй `templates/lessons/lesson-template.md`. Обов'язково:
-- мета (can-do), рівень CEFR, тривалість, матеріали;
-- етапи з таймінгом: warm-up → lead-in → presentation → controlled practice → freer practice → brain break (якщо урок ≥40 хв) → wrap-up/feedback → homework;
-- інструкції для вчителя (ICQs/CCQs), ключі відповідей;
-- зв'язок з Wordwall / Quizlet / Baamboozle / ReadyTo — пропонуй, де доречно.
+Використовуй `templates/lessons/lesson-template.md`. Урок = **60 хв**, 5 обов'язкових етапів:
+1. Warming up · 2. Лексика (нова/повторення) через різні ігри · 3. Граматичні структури ·
+4. Тексти на закріплення (для тих, хто читає; для нечитаючих — усна/ігрова альтернатива) · 5. Міні-тест 5–7 хв на все.
+Також: мета (can-do), вік, ключі відповідей, брендинг Lingo English School, зв'язок з Wordwall / Quizlet / Baamboozle / ReadyTo.
 
 ## Презентації (/slides)
 - Шаблон: `templates/presentations/slides-template.md` (структура) + стиль з `preferences.md`.
-- Формат за замовчуванням: .pptx (через skill pptx), якщо викладач не обрав інше.
+- Цільова платформа: Google Slides. Створюю .pptx (skill pptx) для імпорту в Google Slides. Брендинг Lingo English School.
 - Один слайд — одна ідея; ≤ 25 слів тексту; великий шрифт; інструкції — дієсловом.
 - Після створення — відрендерити слайди в зображення і перевірити (переповнення тексту, контраст, порядок).
 
