@@ -1,0 +1,40 @@
+#TeacherNote: Beehive 3 · Unit 2 · Частина 1: знайомство
+У групі новий учень. Учні: Влада, Святослав, Андрій.
+1) «Hello, friends!» — кожен називає своє ім'я з жестом, інші повторюють ім'я + жест. 2 хв
+2) Matching: питання ↔ відповіді (готує мовні зразки). 2 хв
+3) Фліп-картки: інтерв'ю в парах (міняємо пари: В+С, С+А, А+В). Учитель записує по 1 факту про кожного для гри «Who is it?». 6 хв
+4) All about me: кожен пише, потім читає вголос. 3 хв
+5) Руханка «Stand up if…» (див. план уроку). 2 хв
+6) Гра «Who is it?» усно: «This person has got a cat. Who is it?» — факти з інтерв'ю. 2 хв
+Lingo Coins (офлайн): +1 за інтерв'ю лише англійською.
+
+#Text: Hello, friends! | tip
+We have a new friend in our group today. Let's get to know each other!
+
+#Matching: Match the questions and the answers.
+What's your name? — My name is Vlada.
+How old are you? — I'm nine.
+Have you got a pet? — Yes, I've got a cat.
+What's your favourite colour? — It's blue.
+What can you do? — I can swim.
+
+#FlipCards: Let's talk! Ask your friend.
++Ask and answer. Then swap.
+What's your name? <My name is…>
+How old are you? <I'm … years old.>
+Where do you live? <I live in…>
+Have you got a brother or a sister? <Yes, I have. / No, I haven't.>
+Have you got a pet? <Yes, I've got a… / No, I haven't.>
+What's your favourite colour? <My favourite colour is…>
+What's your favourite animal? <My favourite animal is…>
+What do you like doing? <I like… (playing football, drawing, dancing)>
+What can you do? <I can… (swim, ride a bike, sing)>
+
+#GapFill: All about me
++Write about you. Then read it to your friends.
+My name is [*].
+I'm [*] years old.
+I live in [*].
+My favourite colour is [*].
+I like [*].
+I can [*].
