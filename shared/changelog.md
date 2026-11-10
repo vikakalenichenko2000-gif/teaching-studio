@@ -18,3 +18,4 @@
 - 2026-11-10 — Beehive 3 U2: додано частину 3 (аудіювання 030/032/034) з відповідями й скриптами з Teacher's Book; ключі SB/WB звірено з TB.
 - 2026-11-10 — Перенесено Macmillan Unit 10 Test: Standard (B1) у ReadyTo: 20 блоків, відповіді з answer key, фото для Speaking.
 - 2026-11-10 — Презентація-гра «Tech Talk Challenge» (Unit 10, B1): 13 слайдів, 9 раундів говоріння, нотатки для вчителя → teaching/presentations/.
+- 2026-11-10 — Презентація-гра «Fashion Time Machine» до Go Getter 4, 1.5 Teenage fashions (13 слайдів, картинки з SB). Попередню «Tech Talk Challenge» (Unit 10 B1) залишено для групи з тестом.
