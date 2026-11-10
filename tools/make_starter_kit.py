@@ -119,6 +119,8 @@ def tracked_files():
 
 
 def keep(path):
+    if path in ("textbooks/README.md", "shared/inbox/.gitkeep"):
+        return True
     if path in EXCLUDE_EXACT or path.startswith(EXCLUDE_PREFIX):
         return False
     if not WITH_MATERIALS and path.startswith(MATERIAL_DIRS) and DATED.search(path):
