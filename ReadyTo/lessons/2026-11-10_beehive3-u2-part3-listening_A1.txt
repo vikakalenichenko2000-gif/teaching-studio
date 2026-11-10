@@ -1,0 +1,62 @@
+#TeacherNote: Beehive 3 · Unit 2 · Частина 3: аудіювання (SB с.20–21, відповіді з Teacher's Book)
+Перед кожною вправою додайте блок «Аудіо» з потрібним треком: 030 → «Listen to the story», 032 → «Listen and choose», 034 → «Listen and tick» (+ картинка 11_SB21_ex6_listen.jpg).
+Скрипти 032 і 034 — з Teacher's Book (британська версія: cinema, sports centre, shopping centre). Якщо у вашому записі звучить movie theater / recreation center / mall — відповіді ті самі, а британські слова в скрипті поясніть дітям: cinema = movie theater, sports centre = recreation center, shopping centre = mall.
+Відповіді: 030 — Emma і Nina → recreation center, Tang → museum, Omar → library. 032 — 1 movie theater, 2 library, 3 station, 4 restaurant. 034 — 1 ✘✔ 2 ✔✘ 3 ✘✔ 4 ✘✔.
+
+#MultipleChoice: Listen to the story and answer.
++Track 030. Where are they going?
+Where are Emma and Nina going?
+*To the recreation center.
+To the museum.
+To the library.
+
+Where's Tang going?
+To the recreation center.
+*To the museum.
+To the station.
+
+Where's Omar going?
+To the restaurant.
+To the museum.
+*To the library.
+
+#DropDown: Listen and choose.
++Track 032.
+1 They're going to the [movie theater/library/station].
+2 She's going to the [library/restaurant/station].
+3 We're going to the [station/library/restaurant].
+4 He's going to the [restaurant/station/library].
+
+#TrueFalse: Listen and tick ✔ or cross ✘. | ✔ / ✘
++Track 034. Look at the pictures. Where are they going?
+Picture 1: hospital | ✘
+Picture 1: movie theater | ✔
+Picture 2: museum | ✔
+Picture 2: recreation center | ✘
+Picture 3: restaurant | ✘
+Picture 3: library | ✔
+Picture 4: mall | ✘
+Picture 4: station | ✔
+
+#DropDown: Listen again and choose.
++Track 034.
+We [aren't/'re] going to the hospital. We ['re/aren't] going to the movie theater.
+I ['m not/'m] going to the recreation center. I ['m/'m not] going to the museum.
+They [aren't/'re] going to the restaurant. They ['re/aren't] going to the library.
+She [isn't/'s] going to the mall. She ['s/isn't] going to the station.
+
+#HiddenText: Check with the audio script.
+=Script 030
+Hi, Emma! Where are you going? — I'm going to the recreation center.
+Hi, Tang! We're going to the recreation center. — Cool! I'm not going to the recreation center. I'm going to the museum.
+Where's Omar going? — He's going to the library!
+=Script 032
+1 Where are they going? They're going to the cinema.
+2 Where's she going? She's going to the library.
+3 Where are you going? We're going to the station.
+4 Where's he going? He's going to the restaurant.
+=Script 034
+1 We aren't going to the hospital. We're going to the cinema.
+2 I'm not going to the sports centre. I'm going to the museum.
+3 They aren't going to the restaurant. They're going to the library.
+4 She isn't going to the shopping centre. She's going to the station.
