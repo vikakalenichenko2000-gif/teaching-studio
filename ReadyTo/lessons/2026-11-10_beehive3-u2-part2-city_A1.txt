@@ -1,0 +1,84 @@
+#TeacherNote: Beehive 3 · Unit 2 · Частина 2: слова міста + Present Progressive (SB с.18–21)
+Лексика (новенький вчить, двоє інших повторюють): mall, restaurant, library, station, college, recreation center, museum, movie theater.
+Граматика: Where are you going? I'm going to… · I'm not / She isn't / They aren't going to…
+ЛЕКСИКА 15 хв: картинка SB с.18 + аудіо 027, 028 → Словник → Where am I? → гра Mime (SB впр.4: «Where am I? — You're at the museum.») → мапа SB впр.5 → «Next stop!» (SB впр.6, усно) → діалог SB впр.7 (аудіо 029).
+ГРАМАТИКА 15 хв: комікс SB впр.1 (аудіо 030, розіграти) → рамка (аудіо 031) → SB впр.2, 3 (аудіо 032), 5 (аудіо 033), 6 (аудіо 034, усно), 7 → Flip cards у парах.
+ЧИТАННЯ 8 хв: Saturday in the city. МІНІ-ТЕСТ 7 хв: PDF (друк). Lingo Coins: до 5 за урок.
+Відповіді SB впр.5: 2 restaurant, 3 station, 4 college, 5 recreation center, 6 movie theater, 7 museum.
+Відповіді SB впр.6 (✔/✘) — з аудіо 034 / Teacher's Book (перевіряємо усно).
+
+#Vocabulary: Places in the city
++Look, listen and repeat.
+mall — торговий центр <I'm going to the mall. I want new shoes.>
+restaurant — ресторан <We're eating pizza at the restaurant.>
+library — бібліотека <I read books at the library.>
+station — вокзал <The train is at the station.>
+college — коледж <My sister goes to college.>
+recreation center — спорткомплекс <I swim at the recreation center.>
+museum — музей <We see old things at the museum.>
+movie theater — кінотеатр <We watch films at the movie theater.>
+
+#DropDown: Where am I?
+I want to read a book. I'm at the [library/museum/station].
+I want to eat. I'm at the [restaurant/college/library].
+I want to watch a film. I'm at the [movie theater/mall/station].
+I want to take a train. I'm at the [station/restaurant/museum].
+I want to buy new shoes. I'm at the [mall/library/college].
+I want to swim. I'm at the [recreation center/museum/restaurant].
+
+#GapFill: Look at the map. Write the places.
++Number 1 is the library.
+Number 2 is the [restaurant].
+Number 3 is the [station].
+Number 4 is the [college].
+Number 5 is the [recreation center/recreation centre].
+Number 6 is the [movie theater/movie theatre/cinema].
+Number 7 is the [museum].
+
+#GapFill: Listen and complete the dialogue. | dialogue
+A: Excuse me. How do I [get] to the library?
+B: Take the [bus]. There's a bus [stop] at the station.
+A: Thank [you]!
+
+#Text: Where are you going? | tip
+Where are you going? — I'm going to the library.
+Where's he going? — He's going to the museum.
+Where are they going? — They're going to the station.
+I'm not going to the museum. She isn't going to the movie theater. They aren't going to the restaurant.
+
+#DropDown: Look at the picture. Where are they going?
+They're going to the [station/museum/library].
+
+#DropDown: Look at the picture. Is the girl going to the movie theater?
+[No, she isn't./Yes, she is.] She's going to the [supermarket/movie theater/library].
+
+#DropDown: Look and choose.
+They [aren't/'re] going to the restaurant. They ['re/aren't] going to the supermarket.
+We [aren't/'re] going to the museum. We ['re/aren't] going to the movie theater.
+I ['m/'m not] going to the park. I ['m not/'m] going to the library.
+She [isn't/'s] going to college. She ['s/isn't] going to school.
+
+#FlipCards: Where are you going? Ask and answer.
++Your friend asks: "Where are you going?" Read the card and answer.
+You want to read a book. <I'm going to the library.>
+You want to eat pizza. <I'm going to the restaurant.>
+You want to watch a film. <I'm going to the movie theater.>
+You want to swim. <I'm going to the recreation center.>
+You want to take a train. <I'm going to the station.>
+You want to buy a T-shirt. <I'm going to the mall.>
+Excuse me. How do I get to the museum? <Take the bus. There's a bus stop at the library.>
+
+#Text: Saturday in the city
+It's Saturday. Mia and her brother Leo are at the bus stop.
+"Where are you going, Mia?" asks her friend Tom.
+"We're going to the museum. We want to see old cars," says Mia.
+"Are you going to the movie theater?" asks Tom.
+"No, we aren't. We're going to the restaurant after the museum," says Leo.
+"Cool! I'm going to the recreation center. I want to swim!" says Tom.
+
+#TrueFalse: Read the text. True or false?
+Mia and Leo are at the bus stop. | True
+Mia and Leo are going to the library. | False
+They want to see old cars. | True
+They're going to the movie theater. | False
+Tom is going to the recreation center. | True

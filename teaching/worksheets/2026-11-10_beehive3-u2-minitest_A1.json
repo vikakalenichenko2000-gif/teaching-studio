@@ -1,0 +1,29 @@
+{
+  "title": "Mini-test",
+  "subtitle": "Beehive 3 · Unit 2 · In the City",
+  "tasks": [
+    {"type": "write", "title": "Look and write.",
+     "bank": ["mall", "restaurant", "library", "station", "college", "recreation center", "museum", "movie theater"],
+     "items": [
+       {"emoji": "1f4da", "answer": "library"},
+       {"emoji": "1f37f", "answer": "movie theater"},
+       {"emoji": "1f689", "answer": "station"},
+       {"emoji": "1f37d", "answer": "restaurant"},
+       {"emoji": "1f6cd", "answer": "mall"},
+       {"emoji": "1f3db", "answer": "museum"},
+       {"emoji": "1f3ca", "answer": "recreation center"},
+       {"emoji": "1f393", "answer": "college"}]},
+    {"type": "circle", "title": "Circle the correct word.",
+     "items": [
+       {"text": "Where (are/is) you going?", "answer": "are"},
+       {"text": "She (is/are) going to the library.", "answer": "is"},
+       {"text": "They (aren't/isn't) going to the museum.", "answer": "aren't"},
+       {"text": "I'm (going/go) to the station.", "answer": "going"}]},
+    {"type": "tick", "title": "Look and tick ✔ or cross ✘.",
+     "items": [
+       {"emoji": "1f4da", "text": "He's going to the library.", "answer": true},
+       {"emoji": "1f37f", "text": "She's going to the restaurant.", "answer": false},
+       {"emoji": "1f689", "text": "They're going to the station.", "answer": true},
+       {"emoji": "1f3ca", "text": "We're going to the museum.", "answer": false}]}
+  ]
+}

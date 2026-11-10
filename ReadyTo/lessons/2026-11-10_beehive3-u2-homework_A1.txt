@@ -1,0 +1,86 @@
+#TeacherNote: Homework · Beehive 3 · Unit 2 (Workbook с.16–19)
+Workbook використовує британські слова: cinema = movie theater, shopping centre = mall, sports centre = recreation center, university = college. Перша вправа пояснює це учням.
+Картинки до вправ додати вручну (папка images/2026-11-10_beehive3-u2/homework). У відповідях прийнято обидва варіанти слів і обидва види апострофа (' та ’ — планшети ставлять різні).
+Відповіді WB с.17 впр.4 (діалог 2) звірте з Teacher's Book: shopping centre / sports centre.
+
+#Text: Homework: In the city | info
+Do the exercises at home. Look at the pictures carefully!
+In this book: cinema = movie theater, shopping centre = mall, sports centre = recreation center, university = college.
+
+#Matching: Same place, different words. Match.
+movie theater — cinema
+mall — shopping centre
+recreation center — sports centre
+college — university
+
+#GapFill: Look and write.
++Look at the pictures. What place is it?
+This is a [station].
+This is a [shopping centre/shopping center/mall].
+This is a [museum].
+This is a [restaurant].
+This is a [university/college].
+This is a [cinema/movie theater/movie theatre].
+This is a [library].
+This is a [sports centre/sports center/recreation center/recreation centre].
+
+#GapFill: Where are they? Look, read and complete.
+He's at the [restaurant].
+She's at the [library].
+He's at the [station].
+They're at the [sports centre/sports center/recreation center/recreation centre].
+They're at the [shopping centre/shopping center/mall].
+I'm at the [cinema/movie theater/movie theatre]!
+
+#GapFill: Read and complete the dialogues. | dialogue
+A: Excuse me. [How] do I get to the museum?
+B: [Take] the bus. There's a bus stop at the [library].
+A: Thank you.
+
+A: Excuse me. How do I [get] to the [shopping centre/shopping center/mall]?
+B: Take the bus. There's a bus stop at the [sports centre/sports center/recreation center].
+A: Thank you.
+
+#Matching: Read and match.
+Where's Ben going? — He's going to the playground.
+Where are you going, Sam? — I'm going to the sports centre.
+Where are Sue and her dad going? — They're going to the supermarket.
+Where's Anna going? — She's going to the station.
+
+#GapFill: Read and complete.
++Write am, is or are.
+'Where [are] you going?' 'We [are/'re/’re] going to the museum.'
+'Where [is/'s/’s] Max going?' 'He [is/'s/’s] going to the hotel.'
+'Where [are] your mum and dad going?' 'They [are/'re/’re] going to the café.'
+'Where [is/'s/’s] Sarah going?' 'She [is/'s/’s] going to the park.'
+'Where [are] you going?' 'I [am/'m/’m] going to the funfair.'
+
+#GapFill: Where are they going? Look, read and complete.
++Words: cinema, library, museum, police station, skatepark
+She's going to the [police station].
+She's going to the [cinema/movie theater/movie theatre].
+He's going to the [skatepark/skate park].
+She's going to the [library].
+They're going to the [museum].
+
+#DropDown: Look at ✔ and ✘. Choose.
+We ['re going/aren't going] to the wildlife park. We [aren't going/'re going] to the park.
+I ['m not going/'m going] to the restaurant. I ['m going/'m not going] to the bowling alley.
+She ['s going/isn't going] to the museum. She [isn't going/'s going] to the shopping centre.
+You [aren't going/'re going] to the beach. You ['re going/aren't going] to the lake.
+
+#GapFill: Write the opposite.
++Example: Tim's going to the sports centre. → Tim isn't going to the sports centre.
+We're going to the cinema. → We [aren't/are not/aren’t/'re not/’re not] going to the cinema.
+My sister isn't going to the café. → My sister [is/'s/’s] going to the café.
+They're going to the park. → They [aren't/are not/aren’t/'re not/’re not] going to the park.
+I'm going to the station. → I [am not/'m not/’m not] going to the station.
+He isn't going to the university. → He [is/'s/’s] going to the university.
+
+#Writing: Answer the questions for you.
++Write full sentences.
+?It's Monday morning. Where are you going?
+?Where are your mum and dad going?
+?Where's your teacher going?
+?It's Saturday afternoon. Where are you going?
+?Where are your friends going?
