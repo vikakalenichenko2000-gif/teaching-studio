@@ -1,0 +1,19 @@
+#TeacherNote: Listening (12 балів)
+Додайте блок «Аудіо» з треком тесту Unit 10 перед першою вправою цієї секції.
+
+#SortSentences: Listening 10. In what order do they talk about these things?
++Listen to a boy and a girl talking about mobile phones. Put the topics in order.
+the price of the latest phone
+the best way of paying for a new phone
+someone who uses their phone in their job
+a disadvantage of buying an old phone
+the things a cheaper phone can do
+the danger of getting a phone wet
+
+#TrueFalse: Listening 11. Listen again. Who says it? | Boy / Girl
+the latest phone is attractive | Girl
+the latest phone is more expensive than a computer | Boy
+they know someone who gets a phone for free | Boy
+expensive phones should last a long time | Girl
+they have a cheap phone with lots of features | Girl
+their father's phone was damaged by water | Boy

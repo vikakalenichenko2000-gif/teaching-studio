@@ -1,0 +1,34 @@
+#TeacherNote: Unit 10 Test (B1) · як рахувати бали
+Разом 100: Vocabulary 20 · Grammar 25 · Use of English 8 · Listening 12 · Reading 15 · Writing 10 · Speaking 10.
+ReadyTo оцінює кожну вправу окремо; загальний бал рахуєте ви.
+
+#Text: Unit 10 Test: Standard | info
+Do all the exercises. Total: 100 points. Good luck!
+
+#DropDown: Vocabulary 1. Choose the correct alternative.
+This isn't a [touchscreen/printer] laptop – you have to use a mouse.
+I spilled orange juice on my [keyboard/monitor], and now the letters 'P' and 'L' don't work.
+I'll put on my [headset/USB cable], and we can chat on Skype.
+I've got two new [speakers/scanners], so now I can play music really loud.
+I'll turn on my [webcam/flash drive], and we'll be able to see each other.
+
+#DragWords: Vocabulary 2. Complete the dialogue with the words. | dialogue
+Ana: Thanks for helping me – can you see what's wrong with the computer?
+Jen: It's very slow, isn't it?
+Ana: Yeah. I don't think I've been hacked or anything – I've got some good antivirus software on there, and I make sure it's [updated] regularly.
+Jen: No, I think it's your hard disk that's the problem – it's completely full. Some of these games that you've [downloaded] from the Internet take up masses of space, and that's why it keeps [crashing]. So let's [delete] some of them, turn it off and on, and then see if it's better when it's been [restarted]. If you want to have lots of games, you need to get an external hard drive, and that'll solve the problem.
+
+#TrueFalse: Vocabulary 3. Where is the stress? | FIRST / OTHER
++FIRST = the stress is definitely on the first syllable. OTHER = the stress is even or on other syllables.
+downloads – Lots of people I know have illegal downloads of music on their phones. | FIRST
+log in – I can't log in because I've forgotten my password. | OTHER
+set up – It takes an hour or so to set up the computer the first time. | OTHER
+back up – The problem is that I never remember to back up my files. | OTHER
+update – Apparently this is an important update. | FIRST
+
+#DropDown: Vocabulary 4. Choose the best option.
+Why don't you [check/create/cut] your email and see if my message has arrived?
+I'll [attach/check/forward] the photo to the email and send it to you now.
+You don't need to type the whole list again – you can just copy and [paste/cut/open] it.
+I couldn't find your message straight away because it was in my [junk/inbox/account] folder.
+My program [saves/cuts/pastes] my documents automatically, so I'm OK even if my computer crashes.

@@ -1,0 +1,29 @@
+#Text: Reading. The Future of Shopping
+One evening last week, a man walked into a supermarket in Seattle. He picked up some vegetables, meat, tea and coffee. As he was going round, he noticed there were no shop assistants anywhere. When he had finished, he put everything into a shopping bag. Then, instead of going to the check-out to pay, he walked out of the store.
+Maybe you're asking yourself why he wasn't arrested, but in fact he hadn't done anything wrong. He was in one of America's first completely automatic supermarkets, and it has no shop assistants. Before you go in, a machine takes the details of your bank card. Inside the store, cameras use facial recognition technology to follow you round, and they recognise and record everything that you pick up. When you leave, the central computer knows exactly what you have bought and it works out your bill.
+When shoppers were asked how they felt about the new system, they had different opinions. Many of the older shoppers said they didn't like it, and said it felt strange. Younger shoppers were much more positive. Cindy Havholm, 15, said she thought it was 'awesome'.
+One of the problems of using new technology like this is that people often lose their jobs. It's something that factory workers know all about. Many of them have lost their jobs and the factories they used to work in are now full of robots and computers.
+It's not just factory jobs that are disappearing. You can study almost anything on the Internet, and teaching software is getting better and better – so in the future we may not need so many teachers. The same thing is happening to doctors, nurses, taxi drivers, travel agents … the list goes on and on.
+Will this be a problem for young people? Will there be any jobs for today's teenagers in tomorrow's world? The answer is probably yes. The good news is that when old jobs disappear, new ones are created. Today's young people will do different jobs, but most of these jobs will be better-paid and more interesting than the ones people do today.
+
+#SortSentences: Reading 12. In what order does the text mention these things?
+someone shopping in a new supermarket
+watching what customers do in a supermarket
+people's feelings about a new supermarket
+the sort of jobs that have disappeared
+jobs that are changing now because of technology
+the jobs young people will do in the future
+
+#DropDown: Reading 13. Read the text again. Choose the correct alternative.
+The man did not [need/want] to go to a checkout to pay.
+In the Seattle supermarket, [cameras/shop assistants] watch everything that you do.
+[Older/Younger] people say that the system doesn't feel right.
+A lot of [factory workers/young people] have lost their jobs.
+We will not need [doctors/the Internet] so much in the future.
+In the future, young people will have [a good chance/little chance] of finding good jobs.
+
+#Writing: Reading 14. Your opinion
++What are the THREE biggest advantages or disadvantages of the new kind of supermarket? Give reasons.
+?1st advantage or disadvantage and why:
+?2nd advantage or disadvantage and why:
+?3rd advantage or disadvantage and why:
