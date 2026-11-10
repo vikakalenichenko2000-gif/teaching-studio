@@ -1,0 +1,234 @@
+<title>Lingo Teaching Studio</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&family=Nunito:wght@400;600;700;800&family=Caveat:wght@600&display=swap">
+<style>
+/* Layout: one reading column, steps as a checklist on a light grid-paper ground (як картки слів Lingo) */
+:root{
+  --bg:#F6F2FC; --paper:#FFFFFF; --grid:#E6DCF6; --ink:#152547; --muted:#55607E;
+  --lilac:#E1D4F8; --accent:#7C5AA1; --olive:#C4CBA7; --olive-ink:#4E5536; --gold:#EDC35F;
+  --line:#D9CCEF; --code:#F1ECFA;
+  --display:"Playfair Display",Georgia,"Times New Roman",serif;
+  --body:"Nunito",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --hand:"Caveat","Comic Sans MS",cursive;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#17142A; --paper:#211D38; --grid:#2A2547; --ink:#ECE6FA; --muted:#B5ADD0;
+  --lilac:#3A3163; --accent:#C3A8F0; --olive:#4D553A; --olive-ink:#DCE3BF; --gold:#E9C46A;
+  --line:#3B3460; --code:#2A2547; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#17142A; --paper:#211D38; --grid:#2A2547; --ink:#ECE6FA; --muted:#B5ADD0;
+  --lilac:#3A3163; --accent:#C3A8F0; --olive:#4D553A; --olive-ink:#DCE3BF; --gold:#E9C46A;
+  --line:#3B3460; --code:#2A2547; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.6;
+  background-image:linear-gradient(var(--grid) 1px,transparent 1px),linear-gradient(90deg,var(--grid) 1px,transparent 1px);
+  background-size:28px 28px;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:32px 64px}
+.wrap{max-width:760px;margin:0 auto;display:flex;flex-direction:column;gap:22px}
+header{background:var(--lilac);border-radius:20px;padding:28px 24px;display:flex;flex-direction:column;gap:8px}
+.brand{display:flex;align-items:center;gap:10px;font-family:var(--display);font-weight:800;font-size:22px}
+.flag{width:30px;height:22px;border-radius:3px;flex:none}
+h1{font-family:var(--display);font-size:clamp(30px,6vw,44px);line-height:1.1;margin:4px 0 0;text-wrap:balance}
+.lead{margin:0;max-width:62ch}
+.hand{font-family:var(--hand);font-size:24px;color:var(--accent);margin:0}
+section{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:22px 22px}
+h2{font-family:var(--display);font-size:24px;margin:0 0 10px;text-wrap:balance}
+h3{font-size:18px;margin:0}
+p{margin:0 0 10px}
+ul,ol{margin:0;padding-left:22px}
+li{margin:4px 0}
+.need{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px}
+.need div{background:var(--code);border-radius:12px;padding:12px 14px;min-width:0}
+.need b{display:block}
+.steps{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:12px}
+.step{display:grid;grid-template-columns:auto 1fr;gap:12px;align-items:start;border:1px solid var(--line);border-radius:14px;padding:14px;background:var(--paper)}
+.step input{width:22px;height:22px;margin-top:3px;accent-color:var(--accent)}
+.step input:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.step.done{background:var(--code)}
+.step.done h3{text-decoration:line-through;color:var(--muted)}
+.step .body{min-width:0}
+.num{display:inline-block;min-width:26px;padding:0 7px;border-radius:999px;background:var(--olive);color:var(--olive-ink);font-weight:800;font-size:14px;text-align:center;margin-right:6px}
+.tag{display:inline-block;font-size:13px;font-weight:700;border:1px solid var(--line);border-radius:999px;padding:1px 9px;color:var(--muted);margin-left:6px}
+code,kbd{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:0.9em;background:var(--code);border-radius:6px;padding:1px 6px;overflow-wrap:anywhere}
+.prompt{position:relative}
+.prompt pre{background:var(--code);border:1px solid var(--line);border-radius:12px;padding:16px;max-height:340px;overflow:auto;white-space:pre-wrap;font-family:var(--body);font-size:15px;margin:10px 0 0}
+button{font-family:var(--body);font-weight:800;font-size:16px;border:0;border-radius:999px;padding:10px 18px;background:var(--accent);color:var(--paper);cursor:pointer}
+button:focus-visible{outline:3px solid var(--ink);outline-offset:2px}
+.copied{margin-left:10px;color:var(--olive-ink);font-weight:700}
+.tbl{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:16px}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:13px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+td:first-child{white-space:nowrap;font-weight:700}
+.note{border-left:4px solid var(--gold);padding:8px 12px;background:var(--code);border-radius:0 10px 10px 0}
+.progress{font-weight:800;color:var(--accent)}
+footer{color:var(--muted);font-size:14px;text-align:center}
+@media (prefers-reduced-motion: reduce){*{transition:none!important}}
+</style>
+<div class="wrap">
+<header>
+  <div class="brand"><svg class="flag" viewBox="0 0 60 44" aria-hidden="true"><rect width="60" height="44" fill="#1F3A8A"/><path d="M0 0L60 44M60 0L0 44" stroke="#fff" stroke-width="9"/><path d="M0 0L60 44M60 0L0 44" stroke="#C8102E" stroke-width="4"/><path d="M30 0V44M0 22H60" stroke="#fff" stroke-width="13"/><path d="M30 0V44M0 22H60" stroke="#C8102E" stroke-width="7"/></svg>lingo <span style="font-family:var(--body);font-weight:600;font-size:14px">english school</span></div>
+  <h1>Ваша AI-студія для підготовки уроків</h1>
+  <p class="lead">Інструкція для викладачів Lingo. Один раз налаштовуєте, і далі Claude готує уроки на 60 хвилин, презентації та вправи для ReadyTo, Wordwall, Quizlet і Baamboozle у стилі школи.</p>
+  <p class="hand">Налаштування: 30–40 хвилин, один раз</p>
+</header>
+
+<section>
+  <h2>Що знадобиться</h2>
+  <div class="need">
+    <div><b>Комп'ютер</b>Windows 10/11 або Mac</div>
+    <div><b>Підписка Claude</b>Pro або вище (без неї Claude Code не працює)</div>
+    <div><b>Google Chrome</b>для роботи Claude в ReadyTo</div>
+    <div><b>Архів студії</b><code>Lingo-Teaching-Studio-Kit.zip</code> — надішле колега</div>
+  </div>
+  <p class="note" style="margin-top:12px">Паролі нікому не надсилайте, і Claude теж. Він працює у вашому браузері там, де ви вже увійшли.</p>
+</section>
+
+<section>
+  <h2>Кроки <span class="progress" id="progress"></span></h2>
+  <ol class="steps" id="steps">
+    <li class="step"><input type="checkbox" id="s1" aria-label="Крок 1 виконано"><div class="body">
+      <h3><span class="num">1</span>Claude і застосунок для комп'ютера</h3>
+      <ul><li>Увійдіть на <b>claude.ai</b>. Перевірте, що план платний (Settings → Billing).</li>
+      <li>Завантажте застосунок: <b>claude.ai/download</b> → встановіть → увійдіть тим самим акаунтом.</li></ul></div></li>
+
+    <li class="step"><input type="checkbox" id="s2" aria-label="Крок 2 виконано"><div class="body">
+      <h3><span class="num">2</span>Git і Python <span class="tag">лише Windows</span></h3>
+      <ul><li><b>Git for Windows</b>: git-scm.com → Download for Windows → встановлення з налаштуваннями за замовчуванням.</li>
+      <li><b>Python</b>: python.org → Downloads → Python 3. Під час встановлення <b>поставте галочку «Add python.exe to PATH»</b>.</li>
+      <li>Повністю закрийте застосунок Claude і відкрийте знову.</li></ul>
+      <p style="margin-top:6px">На Mac нічого не потрібно. Якщо Mac запропонує «інструменти розробника», погодьтеся.</p></div></li>
+
+    <li class="step"><input type="checkbox" id="s3" aria-label="Крок 3 виконано"><div class="body">
+      <h3><span class="num">3</span>GitHub: там зберігатиметься студія</h3>
+      <ul><li>Зареєструйтеся на <b>github.com</b> (безкоштовно).</li>
+      <li>Встановіть <b>GitHub Desktop</b> з desktop.github.com і увійдіть.</li></ul></div></li>
+
+    <li class="step"><input type="checkbox" id="s4" aria-label="Крок 4 виконано"><div class="body">
+      <h3><span class="num">4</span>Розпакуйте архів</h3>
+      <p>Розпакуйте <code>Lingo-Teaching-Studio-Kit.zip</code> у <b>Документи</b>. Має вийти <code>Документи\teaching-studio</code>, а в ній папки <code>teaching</code>, <code>ReadyTo</code>, <code>shared</code> і файл <code>ПОЧНИ-ТУТ.md</code>.</p>
+      <p>Якщо вийшла папка в папці, перенесіть внутрішню <code>teaching-studio</code> на рівень вище.</p></div></li>
+
+    <li class="step"><input type="checkbox" id="s5" aria-label="Крок 5 виконано"><div class="body">
+      <h3><span class="num">5</span>Збережіть студію у своєму GitHub</h3>
+      <ol><li>GitHub Desktop → <b>File → Add local repository</b> → <b>Choose…</b> → папка <code>teaching-studio</code>.</li>
+      <li>Натисніть <b>create a repository</b> → <b>Create repository</b>.</li>
+      <li>Угорі <b>Publish repository</b>, залиште <b>Keep this code private</b> → <b>Publish</b>.</li></ol></div></li>
+
+    <li class="step"><input type="checkbox" id="s6" aria-label="Крок 6 виконано"><div class="body">
+      <h3><span class="num">6</span>Перший запуск у Claude</h3>
+      <ol><li>Застосунок Claude → вкладка <b>Code</b> → робота на цьому комп'ютері → папка <code>Документи\teaching-studio</code>.</li>
+      <li>Скопіюйте промпт нижче (кнопка «Скопіювати промпт») і вставте його в Claude.</li>
+      <li>Claude сам перевірить комп'ютер, поставить запитання про ваших учнів і налаштує студію під вас.</li></ol></div></li>
+
+    <li class="step"><input type="checkbox" id="s7" aria-label="Крок 7 виконано"><div class="body">
+      <h3><span class="num">7</span>Claude у Chrome <span class="tag">для ReadyTo, Wordwall</span></h3>
+      <ul><li>Chrome Web Store → розширення <b>Claude</b> від Anthropic → <b>Додати в Chrome</b> → увійдіть тим самим акаунтом.</li>
+      <li>Увійдіть у ReadyTo як зазвичай. Якщо щось незрозуміло, напишіть у студії: «допоможи підключити Claude in Chrome».</li></ul></div></li>
+
+    <li class="step"><input type="checkbox" id="s8" aria-label="Крок 8 виконано"><div class="body">
+      <h3><span class="num">8</span>Робота з телефона <span class="tag">за бажанням</span></h3>
+      <ul><li><b>claude.ai/connect-github</b> → підключіть GitHub і встановіть Claude GitHub App для <code>teaching-studio</code>.</li>
+      <li>У застосунку Claude на телефоні: Claude Code → нова сесія → репозиторій <code>teaching-studio</code>.</li></ul></div></li>
+  </ol>
+</section>
+
+<section class="prompt">
+  <h2>Промпт для першого запуску</h2>
+  <p>Цей самий текст лежить в архіві у файлі <code>ПРОМПТ-ПЕРШИЙ-ЗАПУСК.txt</code>.</p>
+  <button type="button" id="copy">Скопіювати промпт</button><span class="copied" id="copied" hidden>Скопійовано</span>
+  <pre id="prompt">Привіт! Це моя нова Teaching Studio — набір інструкцій, пам&#x27;яті та команд для підготовки уроків англійської у школі Lingo English School. Його мені передала колега, і вона вже налаштувала й протестувала систему. Тепер налаштуй її під мене.
+
+Працюй українською, простими словами, крок за кроком. Я не програміст. Ніколи не проси в мене паролі.
+
+1. ПРОЧИТАЙ СИСТЕМУ
+Прочитай CLAUDE.md, teaching/CLAUDE.md, ReadyTo/CLAUDE.md і всі файли в shared/. Коротко (5–7 пунктів) скажи, що вмієш у цій студії.
+
+2. ПЕРЕВІР МІЙ КОМП&#x27;ЮТЕР
+Перевір, чи є git і python (python або python3 або py). Якщо чогось бракує — поясни, що встановити й де натиснути (Windows: Git for Windows з git-scm.com, Python з python.org з галочкою «Add python.exe to PATH»). Потім запусти перевірку:
+python ReadyTo/tools/check_import.py ReadyTo/tested/2026-11-09_all-16-types-TESTED.txt
+Має бути «помилок: 0». Перевір, що всі команди з CLAUDE.md є в .claude/skills/.
+
+3. ПЕРСОНАЛІЗАЦІЯ
+Постав мені по черзі (не всі одразу, по 2–3) такі запитання:
+- як до мене звертатися;
+- яких учнів я веду: класи/вік, рівні, групові/індивідуальні/парні, онлайн чи офлайн;
+- чи є учні, які ще не читають;
+- за якими підручниками я працюю (і чи покладу PDF у папку textbooks);
+- який у мене тариф Wordwall (Standard чи Pro), Quizlet, Baamboozle — чи вони платні;
+- чи працюю я в ReadyTo (акаунт школи Lingo Eng School);
+- чи все в шкільних налаштуваннях (shared/preferences.md: урок 60 хв, 5 етапів, Google Slides, бренд Lingo, Lingo Coins) підходить і мені, чи щось у мене інакше.
+Записуй мої відповіді в shared/preferences.md, shared/students.md, shared/textbooks.md, shared/interactive-game-preferences.md. Те, що я не підтвердила, — у shared/pending-confirmation.md. Кожну зміну — рядок у shared/changelog.md.
+
+4. ЗБЕРЕЖЕННЯ В GITHUB
+Перевір, що папка — git-репозиторій з remote origin (я публікувала її через GitHub Desktop). Якщо ні — поясни, як зробити «Add local repository → create a repository → Publish repository (private)» у GitHub Desktop. Після налаштування зроби commit і push. Якщо push не вдається — скажи мені натиснути «Push origin» у GitHub Desktop.
+Онови рядок «Зберігання» в CLAUDE.md: вкажи назву МОГО репозиторію.
+
+5. ТЕСТ READYTO (якщо я працюю в ReadyTo)
+Поясни, як створити в ReadyTo тестовий урок і через «Імпорт зі списку (кілька вправ)» вставити вміст ReadyTo/tested/2026-11-09_all-16-types-TESTED.txt, натиснути «Перевірити» й «Створити вправи». Я скажу результат — запиши в shared/readyto-formats.md (журнал тестів).
+
+6. ЯК КОРИСТУВАТИСЯ
+Наприкінці дай мені коротку шпаргалку: головні команди (/lesson, /readyto-lesson, /wordwall, /quizlet, /baamboozle, /slides, /remember), як надсилати фото підручника, як працювати з телефона (claude.ai/connect-github → репозиторій teaching-studio), і як підключити Claude in Chrome, щоб ти міг працювати прямо в ReadyTo.
+
+Правила, яких дотримуйся завжди: не вигадуй функцій платформ, позначай що перевірено, а що ні; з підручника бери лише матеріал, вправи створюй власні; англійська без помилок; після кожної завершеної роботи — commit і push.
+</pre>
+</section>
+
+<section>
+  <h2>Як користуватися щодня</h2>
+  <p>Пишіть звичайними словами або командами. Наприклад: надішліть фото сторінки підручника і напишіть <code>/readyto-lesson 3 клас, A1</code>.</p>
+  <div class="tbl"><table>
+    <thead><tr><th>Команда</th><th>Що робить</th></tr></thead>
+    <tbody>
+      <tr><td>/lesson</td><td>повний урок на 60 хв за структурою школи</td></tr>
+      <tr><td>/slides</td><td>презентація для Google Slides у стилі Lingo</td></tr>
+      <tr><td>/readyto-lesson</td><td>урок ReadyTo: текст для «Імпорт зі списку (кілька вправ)»</td></tr>
+      <tr><td>/readyto · /readyto-check</td><td>вправи ReadyTo · перевірка тексту імпорту</td></tr>
+      <tr><td>/wordwall · /quizlet · /baamboozle</td><td>матеріали для цих платформ</td></tr>
+      <tr><td>/interactive</td><td>з одного матеріалу: Quizlet, Wordwall і Baamboozle разом</td></tr>
+      <tr><td>/games · /brainbreak</td><td>ігри й руханки</td></tr>
+      <tr><td>/vocabulary · /grammar · /worksheet</td><td>лексика, граматика, роздатки</td></tr>
+      <tr><td>/review · /adapt</td><td>повторення · адаптація до іншого рівня</td></tr>
+      <tr><td>/remember</td><td>запам'ятати ваше побажання назавжди</td></tr>
+    </tbody>
+  </table></div>
+  <p style="margin-top:12px"><b>Підручники:</b> покладіть PDF у папку <code>teaching-studio\textbooks</code> і назвіть їх Claude. Далі пишіть: «Unit 4, сторінки 30–31». Claude бере з підручника лише матеріал, а вправи складає свої.</p>
+</section>
+
+<section>
+  <h2>Якщо щось не працює</h2>
+  <ul>
+    <li>Немає вкладки <b>Code</b> або вона не відкривається: перевірте крок 2 і перезапустіть Claude.</li>
+    <li>«python не знайдено»: перевстановіть Python з галочкою «Add python.exe to PATH».</li>
+    <li>Будь-що інше: напишіть Claude «щось не працює» і вставте текст помилки.</li>
+  </ul>
+</section>
+<footer>Lingo English School · Teaching Studio</footer>
+</div>
+<script>
+(function(){
+  var boxes=[].slice.call(document.querySelectorAll('#steps input[type=checkbox]'));
+  var key='lingo-ts-steps';
+  var saved={};
+  try{saved=JSON.parse(localStorage.getItem(key)||'{}')||{};}catch(e){saved={};}
+  function render(){
+    var n=0;
+    boxes.forEach(function(b){var li=b.closest('.step');li.classList.toggle('done',b.checked);if(b.checked)n++;});
+    document.getElementById('progress').textContent=n+' з '+boxes.length;
+  }
+  boxes.forEach(function(b){
+    b.checked=!!saved[b.id];
+    b.addEventListener('change',function(){saved[b.id]=b.checked;try{localStorage.setItem(key,JSON.stringify(saved));}catch(e){}render();});
+  });
+  render();
+  var btn=document.getElementById('copy'),pre=document.getElementById('prompt'),ok=document.getElementById('copied');
+  function selectText(){var r=document.createRange();r.selectNodeContents(pre);var s=window.getSelection();s.removeAllRanges();s.addRange(r);}
+  btn.addEventListener('click',function(){
+    var t=pre.textContent;
+    try{
+      navigator.clipboard.writeText(t).then(function(){ok.textContent='Скопійовано';ok.hidden=false;setTimeout(function(){ok.hidden=true;},2500);},
+        function(){selectText();ok.textContent='Текст виділено, натисніть Ctrl+C';ok.hidden=false;});
+    }catch(e){selectText();ok.textContent='Текст виділено, натисніть Ctrl+C';ok.hidden=false;}
+  });
+})();
+</script>
