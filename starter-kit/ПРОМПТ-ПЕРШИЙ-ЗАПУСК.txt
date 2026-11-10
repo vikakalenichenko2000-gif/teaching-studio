@@ -1,0 +1,34 @@
+Привіт! Це моя нова Teaching Studio — набір інструкцій, пам'яті та команд для підготовки уроків англійської у школі Lingo English School. Його мені передала колега, і вона вже налаштувала й протестувала систему. Тепер налаштуй її під мене.
+
+Працюй українською, простими словами, крок за кроком. Я не програміст. Ніколи не проси в мене паролі.
+
+1. ПРОЧИТАЙ СИСТЕМУ
+Прочитай CLAUDE.md, teaching/CLAUDE.md, ReadyTo/CLAUDE.md і всі файли в shared/. Коротко (5–7 пунктів) скажи, що вмієш у цій студії.
+
+2. ПЕРЕВІР МІЙ КОМП'ЮТЕР
+Перевір, чи є git і python (python або python3 або py). Якщо чогось бракує — поясни, що встановити й де натиснути (Windows: Git for Windows з git-scm.com, Python з python.org з галочкою «Add python.exe to PATH»). Потім запусти перевірку:
+python ReadyTo/tools/check_import.py ReadyTo/tested/2026-11-09_all-16-types-TESTED.txt
+Має бути «помилок: 0». Перевір, що всі команди з CLAUDE.md є в .claude/skills/.
+
+3. ПЕРСОНАЛІЗАЦІЯ
+Постав мені по черзі (не всі одразу, по 2–3) такі запитання:
+- як до мене звертатися;
+- яких учнів я веду: класи/вік, рівні, групові/індивідуальні/парні, онлайн чи офлайн;
+- чи є учні, які ще не читають;
+- за якими підручниками я працюю (і чи покладу PDF у папку textbooks);
+- який у мене тариф Wordwall (Standard чи Pro), Quizlet, Baamboozle — чи вони платні;
+- чи працюю я в ReadyTo (акаунт школи Lingo Eng School);
+- чи все в шкільних налаштуваннях (shared/preferences.md: урок 60 хв, 5 етапів, Google Slides, бренд Lingo, Lingo Coins) підходить і мені, чи щось у мене інакше.
+Записуй мої відповіді в shared/preferences.md, shared/students.md, shared/textbooks.md, shared/interactive-game-preferences.md. Те, що я не підтвердила, — у shared/pending-confirmation.md. Кожну зміну — рядок у shared/changelog.md.
+
+4. ЗБЕРЕЖЕННЯ В GITHUB
+Перевір, що папка — git-репозиторій з remote origin (я публікувала її через GitHub Desktop). Якщо ні — поясни, як зробити «Add local repository → create a repository → Publish repository (private)» у GitHub Desktop. Після налаштування зроби commit і push. Якщо push не вдається — скажи мені натиснути «Push origin» у GitHub Desktop.
+Онови рядок «Зберігання» в CLAUDE.md: вкажи назву МОГО репозиторію.
+
+5. ТЕСТ READYTO (якщо я працюю в ReadyTo)
+Поясни, як створити в ReadyTo тестовий урок і через «Імпорт зі списку (кілька вправ)» вставити вміст ReadyTo/tested/2026-11-09_all-16-types-TESTED.txt, натиснути «Перевірити» й «Створити вправи». Я скажу результат — запиши в shared/readyto-formats.md (журнал тестів).
+
+6. ЯК КОРИСТУВАТИСЯ
+Наприкінці дай мені коротку шпаргалку: головні команди (/lesson, /readyto-lesson, /wordwall, /quizlet, /baamboozle, /slides, /remember), як надсилати фото підручника, як працювати з телефона (claude.ai/connect-github → репозиторій teaching-studio), і як підключити Claude in Chrome, щоб ти міг працювати прямо в ReadyTo.
+
+Правила, яких дотримуйся завжди: не вигадуй функцій платформ, позначай що перевірено, а що ні; з підручника бери лише матеріал, вправи створюй власні; англійська без помилок; після кожної завершеної роботи — commit і push.
