@@ -1,0 +1,143 @@
+#TeacherNote: Unit 10 Test: Standard (B1) · 100 балів
+Бали: Vocabulary 20 (впр.1–4 по 5) · Grammar 25 (5 — 6, 6 — 6, 7 — 7, 8 — 6) · Use of English 8 · Listening 12 (10 — 6, 11 — 6) · Reading 15 (12 — 6, 13 — 6, 14 — 3) · Writing 10 · Speaking 10.
+ReadyTo рахує бали для кожної вправи окремо. Загальний бал зі 100 рахуєте ви (відкриті вправи 14, 15, 16 оцінюєте вручну).
+Listening: додайте блок «Аудіо» з треком тесту Unit 10 перед вправою «Listening 10».
+Speaking: додайте блок «Колаж» (Сітка, 2 колонки, Нумерація) з фото speaking_photo1 і speaking_photo2 перед вправою «Speaking 16».
+Зразки відповідей 14: quick and easy to use; may be cheaper; no contact with people.
+Зразки 15: A gtg but brb · B r u OK? wot r u doing 2nite? · C thx 4 yr help with my hmwk · D c u @ yr house @ 8.30 · E wots ur ETA?
+Критерії Writing / Speaking (по 10): 9–10 повно й точно · 7–8 одна неточність/пропуск · 5–6 дрібні помилки · 3–4 багато помилок · 1–2 дуже обмежено · 0 недостатньо.
+
+#Text: Unit 10 Test: Standard | info
+Do all the exercises. Total: 100 points. Good luck!
+
+#DropDown: Vocabulary 1. Choose the correct alternative.
+This isn't a [touchscreen/printer] laptop – you have to use a mouse.
+I spilled orange juice on my [keyboard/monitor], and now the letters 'P' and 'L' don't work.
+I'll put on my [headset/USB cable], and we can chat on Skype.
+I've got two new [speakers/scanners], so now I can play music really loud.
+I'll turn on my [webcam/flash drive], and we'll be able to see each other.
+
+#DragWords: Vocabulary 2. Complete the dialogue with the words. | dialogue
+Ana: Thanks for helping me – can you see what's wrong with the computer?
+Jen: It's very slow, isn't it?
+Ana: Yeah. I don't think I've been hacked or anything – I've got some good antivirus software on there, and I make sure it's [updated] regularly.
+Jen: No, I think it's your hard disk that's the problem – it's completely full. Some of these games that you've [downloaded] from the Internet take up masses of space, and that's why it keeps [crashing]. So let's [delete] some of them, turn it off and on, and then see if it's better when it's been [restarted]. If you want to have lots of games, you need to get an external hard drive, and that'll solve the problem.
+
+#TrueFalse: Vocabulary 3. Where is the stress? | FIRST / OTHER
++FIRST = the stress is definitely on the first syllable. OTHER = the stress is even or on other syllables.
+downloads – Lots of people I know have illegal downloads of music on their phones. | FIRST
+log in – I can't log in because I've forgotten my password. | OTHER
+set up – It takes an hour or so to set up the computer the first time. | OTHER
+back up – The problem is that I never remember to back up my files. | OTHER
+update – Apparently this is an important update. | FIRST
+
+#DropDown: Vocabulary 4. Choose the best option.
+Why don't you [check/create/cut] your email and see if my message has arrived?
+I'll [attach/check/forward] the photo to the email and send it to you now.
+You don't need to type the whole list again – you can just copy and [paste/cut/open] it.
+I couldn't find your message straight away because it was in my [junk/inbox/account] folder.
+My program [saves/cuts/pastes] my documents automatically, so I'm OK even if my computer crashes.
+
+#GapFill: Grammar 5. Put the verbs into the present simple passive.
+A lot of the world's bananas [are grown] (grow) in the Caribbean and West Africa.
+I [am amazed/'m amazed/’m amazed] (amaze) that anyone goes to that shop. It's incredibly expensive.
+People who commit very serious crimes [are sent] (send) to prison for a long time.
+I'd like to try cooking some pancakes. What [are they made] (they / make) of?
+Metals like lithium [are used] (use) to make batteries for electric cars.
+We'd better leave a tip for the waitress. Service [is not included/isn't included/isn’t included] (not / include) on the bill, it's extra.
+
+#Matching: Grammar 6a. Match the sentences with the endings.
+I got bitten today … — by my neighbour's horrible little dog.
+Venice has once again been flooded … — by water.
+My bike's been stolen … — by a thief.
+The Mona Lisa was painted … — by Leonardo da Vinci.
+
+#MultipleChoice: Grammar 6b. Which TWO endings are not necessary?
+Which two endings are not necessary? Choose two.
+*by water
+*by a thief
+by Leonardo da Vinci
+by my neighbour's horrible little dog
+
+#GapFill: Grammar 7. Complete with the correct passive form.
++Verbs: flood, grow, not/clean, send, repair, re-paint, show
+The letter [was sent] last week – I am sure it will get there soon.
+I haven't got the car today. It [is being repaired/'s being repaired/’s being repaired] at the moment.
+After the terrible storm last week, most of the houses next to the river [were flooded].
+I can't go to the match tomorrow, but I'm hoping it [will be shown/'ll be shown/’ll be shown] on TV.
+We couldn't use our sitting room last week because it [was being repainted/was being re-painted].
+Please send someone up to Room 322. It [hasn't been cleaned/has not been cleaned/hasn’t been cleaned] yet.
+We shop locally, and all the vegetables we buy [are grown] on local farms.
+
+#GapFill: Grammar 8. Complete the second sentence with have or get.
++The second sentence must have a similar meaning to the first.
+Has someone done your hair? It looks lovely. → Have you [had your hair done]? It looks lovely.
+We need to get someone to renew our passports this year. → We need to [get our passports renewed/have our passports renewed] this year.
+You know you get headaches? Maybe someone should test your eyes. → You know you get headaches? Maybe you [should get your eyes tested/should have your eyes tested].
+Peter's getting someone to build a tennis court in his garden. → Peter is [having a tennis court built/getting a tennis court built] in his garden. It's nearly finished.
+Someone installed fibre Internet last week, and now our broadband is super fast. → We [had fibre installed/got fibre installed/had fibre Internet installed/got fibre Internet installed] last week, and now our broadband is 'superfast'.
+We used to buy milk from the supermarket, but now someone delivers it. → We used to buy milk from the supermarket, but now we [have it delivered/get it delivered].
+
+#DropDown: Use of English 9. Choose the best answer for each gap. | text
+The music industry has been changed almost completely by modern technology. In the past, singers and other musicians could usually only [have/do/let/make] a record made if they had [been/had/were/done] 'discovered' [by/with/from/of] a record company.
+These days there are much easier ways of getting noticed. For a start, with a computer and a [microphone/scanner/touchpad/monitor], you can set [up/in/over/down] a high-quality recording studio in your bedroom for very [little/some/any/few] money. You can then post your performances on YouTube and reach a huge number of people.
+That's what Ed Sheeran did, and after he [had/having/has/have] found masses of fans on [social/digital/mass/open] media, he went to Los Angeles – and the rest is history. He is now one of the biggest stars of all time.
+
+#SortSentences: Listening 10. In what order do they talk about these things?
++Listen to a boy and a girl talking about mobile phones. Put the topics in order.
+the price of the latest phone
+the best way of paying for a new phone
+someone who uses their phone in their job
+a disadvantage of buying an old phone
+the things a cheaper phone can do
+the danger of getting a phone wet
+
+#TrueFalse: Listening 11. Listen again. Who says it? | Boy / Girl
+the latest phone is attractive | Girl
+the latest phone is more expensive than a computer | Boy
+they know someone who gets a phone for free | Boy
+expensive phones should last a long time | Girl
+they have a cheap phone with lots of features | Girl
+their father's phone was damaged by water | Boy
+
+#Text: Reading. The Future of Shopping
+One evening last week, a man walked into a supermarket in Seattle. He picked up some vegetables, meat, tea and coffee. As he was going round, he noticed there were no shop assistants anywhere. When he had finished, he put everything into a shopping bag. Then, instead of going to the check-out to pay, he walked out of the store.
+Maybe you're asking yourself why he wasn't arrested, but in fact he hadn't done anything wrong. He was in one of America's first completely automatic supermarkets, and it has no shop assistants. Before you go in, a machine takes the details of your bank card. Inside the store, cameras use facial recognition technology to follow you round, and they recognise and record everything that you pick up. When you leave, the central computer knows exactly what you have bought and it works out your bill.
+When shoppers were asked how they felt about the new system, they had different opinions. Many of the older shoppers said they didn't like it, and said it felt strange. Younger shoppers were much more positive. Cindy Havholm, 15, said she thought it was 'awesome'.
+One of the problems of using new technology like this is that people often lose their jobs. It's something that factory workers know all about. Many of them have lost their jobs and the factories they used to work in are now full of robots and computers.
+It's not just factory jobs that are disappearing. You can study almost anything on the Internet, and teaching software is getting better and better – so in the future we may not need so many teachers. The same thing is happening to doctors, nurses, taxi drivers, travel agents … the list goes on and on.
+Will this be a problem for young people? Will there be any jobs for today's teenagers in tomorrow's world? The answer is probably yes. The good news is that when old jobs disappear, new ones are created. Today's young people will do different jobs, but most of these jobs will be better-paid and more interesting than the ones people do today.
+
+#SortSentences: Reading 12. In what order does the text mention these things?
+someone shopping in a new supermarket
+watching what customers do in a supermarket
+people's feelings about a new supermarket
+the sort of jobs that have disappeared
+jobs that are changing now because of technology
+the jobs young people will do in the future
+
+#DropDown: Reading 13. Read the text again. Choose the correct alternative.
+The man did not [need/want] to go to a checkout to pay.
+In the Seattle supermarket, [cameras/shop assistants] watch everything that you do.
+[Older/Younger] people say that the system doesn't feel right.
+A lot of [factory workers/young people] have lost their jobs.
+We will not need [doctors/the Internet] so much in the future.
+In the future, young people will have [a good chance/little chance] of finding good jobs.
+
+#Writing: Reading 14. Your opinion
++What are the THREE biggest advantages or disadvantages of the new kind of supermarket? Give reasons.
+?1st advantage or disadvantage and why:
+?2nd advantage or disadvantage and why:
+?3rd advantage or disadvantage and why:
+
+#Writing: Writing 15. Write FIVE short messages to a friend.
++Use some of these abbreviations: @ c wot brb ETA gtg u 2nite thx 4 hmwk r yr
+++Up to 20 words each.
+?A Say you have to go but will be right back.
+?B Ask if they are OK and what they are doing tonight.
+?C Thank them for helping you with your homework.
+?D Say you will see them at their house at 8.30.
+?E Ask them what time they will arrive.
+
+#Text: Speaking 16 | tip
+Work in pairs. Look at the photographs and discuss the similarities and differences between them.
